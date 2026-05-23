@@ -245,7 +245,7 @@ This project is open source and available under the MIT License.
 
 ## 🙏 Acknowledgments
 
-Built with ❤️ by **Pujolaras**, **Farrel**, and **Ren** as a final project showcase of collaborative web development excellence.
+Built with teamwork by **Pujolaras**, **Farrel**, and **Ren** as a final project showcase of collaborative web development excellence.
 
 *Join the community and start sharing your best prompts today!*
 
