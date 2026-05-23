@@ -1,0 +1,6 @@
+{
+  "name": "PromptOverflow",
+  "description": "A Q&A platform for prompt engineering, allowing users to share, vote, and manage AI prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
